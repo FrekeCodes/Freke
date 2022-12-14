@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+
+
+}
+
+
+.firstClass {
+    background-color: #C3F8FF;
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+h1 {
+    font-family: pacifico;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+
+}
+
+i {
+    font-size: 20px;
+}
+
+.proPic {
+    border-radius: 50%;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+
+}
+
+.secondClass {
+    background-color: #ABD9FF;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    font-family: indieflower;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.list {
+    margin: 10px;
+    line-height: 50px;
+    font-family: indie flower;
+    font-size: 20px;
+}
+
+.thirdClass h2 {
+    text-align: center;
+    margin: 5px;
+}
+
+.thirdClass {
+
+    padding-top: 50px;
+    padding-bottom: 10px;
+    background-color: #FFF6BF;
+    line-height: 50px;
+    font-family: indie flower;
+    font-size: 20px;
+}
+
+.fourthClass {
+    background-color: #FFF6BF;
+    line-height: 50px;
+    font-family: indie flower;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    padding-top: 20px;
+
+}
+
+
+.countOnMe {
+
+    background-color: #FCF9BE;
+    text-align: center;
+    line-height: 80px;
+    padding: 30px;
+}
+
+
+.funnyStory {
+    background-color: #FFEBAD;
+    text-align: center;
+    padding: 70px;
+
+}
+
+.funnyStory p {
+
+    font-family: montserrat;
+    padding: 40px;
+    line-height: 22px;
+}
+
+h2 {
+    font-family: indie flower;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+hr {
+    border-color: #FFF6BF;
+}
+
+.buttons {
+    background-color: #ABD9FF;
+    text-align: center;
+    padding: 50px;
+
+}
+
+button {
+
+    background-color: #FFEBAD;
+    border-radius: 40px;
+    border: 4px double #cccccc;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 200px;
+}
+
+button:hover {
+    background-color: #C3F8FF;
+    border-radius: 40px;
+    border: 4px double #cccccc;
+    text-align: center;
+    font-size: 15px;
+    padding: 20px;
+    width: 200px;
+}
+}
